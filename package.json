@@ -1,5 +1,5 @@
 {
-  "name": "ny-times-scraper",
+  "name": "CompSciScraper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparramore/ny-times-scraper.git"
+    "url": "git+https://github.com/sparramore/CompSciScraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sparramore/ny-times-scraper/issues"
+    "url": "https://github.com/sparramore/CompSciScraper/issues"
   },
-  "homepage": "https://github.com/sparramore/ny-times-scraper#readme",
+  "homepage": "https://github.com/sparramore/CompSciScraper#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
